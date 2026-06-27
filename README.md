@@ -4,8 +4,8 @@
 Frontend React application for the Pet Adoption Platform. Beautiful, responsive UI with dark/light theme and Framer Motion animations.
 
 ## Live URL
-- Client: https://your-client-url.vercel.app
-- Server: https://your-server-url.onrender.com
+- Client: https://pet-adoption-client-rho-jet.vercel.app
+- Server: https://pet-adoption-server-6v5r.onrender.com
 
 ## Features
 - Browse pets with search and species filter
