@@ -353,7 +353,7 @@ const Home = () => {
             className="text-center mb-14"
           >
             <motion.span variants={fadeIn} className="inline-flex items-center gap-2 px-4 py-1.5 bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-400 rounded-full text-sm font-medium mb-4">
-              <FiQuote size={14} /> Happy Families
+              <FiStar size={14} /> Happy Families
             </motion.span>
             <motion.h2 variants={slideUp} custom={0} className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4 tracking-tight">
               Success Stories
